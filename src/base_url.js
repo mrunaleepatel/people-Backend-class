@@ -1,0 +1,1 @@
+export const baseUrl = "https://people-backend-t8pu.onrender.com"
